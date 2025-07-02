@@ -11,20 +11,20 @@ users can easily switch between broad organizational views and granular employee
 ## Dataset
 The human resource data has 8950 rows and 15 columns.
 The columns are:
-Employee_id
-First_name
-Last_name
-Gender
-State
-City
-Hiredate
-Department
-Job_title
-Education_level
-Salary
-Performance_rating
-Overtime
-Birthdate
+Employee_id,
+First_name,
+Last_name,
+Gender,
+State,
+City,
+Hiredate,
+Department,
+Job_title,
+Education_level,
+Salary,
+Performance_rating,
+Overtime,
+Birthdate,
 Termdate
 
 ## Loading and Transforming the dataset
